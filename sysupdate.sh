@@ -39,7 +39,7 @@ echo -e "		\e[42;97m4-\e[0m Actualizar Distribucion"
 echo -e "		\e[42;97m5-\e[0m Verificar Version"
 echo -e "		\e[42;97m6-\e[0m Informacion del sistema"
 echo -e "		\e[42;97m7-\e[0m Actualizar sources.list"
-echo -e "		\e[46m8-\e[0m Pantalla Completa. \e[42m[\e[0m \e[91mVirtualBox\e[0m \e[42m]\e[0m "
+echo -e "		\e[46m8-\e[0m Pantalla Completa. \e[92m[\e[0m \e[91mVirtualBox\e[0m \e[92m]\e[0m "
 echo -e "		\e[41;97m9-\e[0m Salir"
 echo -e "		     "
 read -p "  	> " opc
